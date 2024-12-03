@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Page-1" id="pVQWC1jGHOwaY_-zfxfO">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-15" value="GSS Operations (Kinda)" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="641" height="500" as="geometry">
+            <mxRectangle x="100" y="290" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="QRc2MEtSZSXHwPeceDQB-15" source="QRc2MEtSZSXHwPeceDQB-18" target="QRc2MEtSZSXHwPeceDQB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="370" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="GSS-Ops-Krakow" treeRoot="1" id="QRc2MEtSZSXHwPeceDQB-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+            <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-19" value="&lt;div&gt;Tools Engineering&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-20" value="&lt;div&gt;Confluence&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry x="350" y="260" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-23" value="Jira" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry x="100" y="255" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="QRc2MEtSZSXHwPeceDQB-23" parent="QRc2MEtSZSXHwPeceDQB-15" source="QRc2MEtSZSXHwPeceDQB-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-25" value="Iza, Grzegorz" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry x="510" y="250" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="302.5" as="sourcePoint" />
+            <mxPoint x="510" y="277.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-27" value="Jan, Grzegorz, Iulian" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry x="390" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QRc2MEtSZSXHwPeceDQB-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="QRc2MEtSZSXHwPeceDQB-27" parent="QRc2MEtSZSXHwPeceDQB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
